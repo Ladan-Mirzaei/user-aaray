@@ -1,1 +1,14 @@
-/* Add your CSS here  */
+.buttonContainer {
+  color: "blue";
+  background-color: rgb(222, 131, 131);
+}
+.button {
+  padding: 10px;
+  background-color: red;
+  border: 1px solid #ccc;
+}
+activeButton {
+  padding: 10px;
+  background-color: red;
+  border: 1px solid #ccc;
+}
